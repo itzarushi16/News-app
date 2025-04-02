@@ -1,4 +1,4 @@
-News App
+Samachar Seva-News App
 
 Overview
 
@@ -6,34 +6,34 @@ The News App is a React-based web application that fetches and displays the late
 
 Features
 
-Fetches news articles dynamically from an API
+📰 Fetches news articles dynamically from an API
 
-Displays news headlines with images and descriptions
+📸 Displays news headlines with images and descriptions
 
-Category-based filtering for different news sections
+🔍 Category-based filtering for different news sections
 
-Responsive design for a seamless experience on all devices
+📱 Responsive design for a seamless experience on all devices
 
-Simple and intuitive user interface
+🎨 Simple and intuitive UI with Bootstrap styling
 
 Technologies Used
 
-React.js
+⚛️ React.js
 
-JavaScript (ES6+)
+💻 JavaScript (ES6+)
 
-HTML5 & CSS3
+🎨 HTML5 & CSS3
 
-Bootstrap (for styling)
+🖌 Bootstrap (for styling)
 
-Axios (for API requests)
+🔗 Axios (for API requests)
 
 Installation
 
-Prerequisites
+📌 Prerequisites
 
 Ensure you have the following installed on your system:
 
-Node.js (v14 or higher)
+🚀 Node.js (v14 or higher)
 
-npm or yarn
+📦 npm or yarn
